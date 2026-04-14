@@ -6,10 +6,10 @@
 ---
 
 ## Mục tiêu hôm nay
-- [ ] Đọc đúng 26 chữ cái tiếng Anh theo phiên âm IPA
-- [ ] Phân biệt nguyên âm / phụ âm
-- [ ] Học 10 từ vựng chủ đề "Văn phòng" đầu tiên
-- [ ] Hiểu cấu trúc câu đơn giản nhất: S + V + O
+- [x] Đọc đúng 26 chữ cái tiếng Anh theo phiên âm IPA
+- [x] Phân biệt nguyên âm / phụ âm
+- [x] Học 10 từ vựng chủ đề "Văn phòng" đầu tiên
+- [x] Hiểu cấu trúc câu đơn giản nhất: S + V + O
 
 ---
 
@@ -110,19 +110,19 @@ Ví dụ:
 ```
 
 Bây giờ bạn viết 5 câu của riêng mình:
-1. ___________________________________
-2. ___________________________________
-3. ___________________________________
-4. ___________________________________
-5. ___________________________________
+1. now, i have to report progress for manager ___________________________________
+2. i do function send email for project___________________________________
+3. i have a desk in office___________________________________
+4. i read document of project for computer___________________________________
+5. my company has a holiday schedule for employee and manager___________________________________
 
 ---
 
 ## Kết quả cần đạt cuối ngày 1
-- [ ] Đọc được phiên âm 10 từ trong bảng
-- [ ] Viết đúng chính tả 10 từ khi nghe (tự đọc to rồi viết)
-- [ ] Dịch được 5 câu bài tập → tiếng Anh
-- [ ] Hiểu khái niệm S + V + O
+- [X] Đọc được phiên âm 10 từ trong bảng
+- [X] Viết đúng chính tả 10 từ khi nghe (tự đọc to rồi viết)
+- [X] Dịch được 5 câu bài tập → tiếng Anh
+- [X] Hiểu khái niệm S + V + O
 
 ---
 
