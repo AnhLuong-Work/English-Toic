@@ -21,26 +21,26 @@ Che cột nghĩa, điền vào chỗ trống:
 
 | Từ tiếng Anh | Nghĩa là? |
 |-------------|----------|
-| office | _______________ |
-| desk | _______________ |
-| meeting | _______________ |
-| email | _______________ |
-| report | _______________ |
-| manager | _______________ |
-| employee | _______________ |
-| schedule | _______________ |
-| document | _______________ |
-| computer | _______________ |
+| office | văn phòng |
+| desk | cái bàn |
+| meeting | cuộc họp |
+| email | Thư điện tử |
+| report | Báo cáo |
+| manager | Quản lý_______________ |
+| employee | Nhân Viên_______________ |
+| schedule | Lịch Trình_______________ |
+| document | Tài liệu_______________ |
+| computer | Máy tính_______________ |
 
-**Điểm ôn tập:** ___/10
+**Điểm ôn tập:** 10/10
 
 ### Bài tập nhanh (15 phút)
 Điền từ đúng vào chỗ trống:
-1. I have a ________ at 2pm. (meeting / report)
-2. Please check your ________. (email / desk)
-3. The ________ is on my desk. (document / schedule)
-4. She is my ________. (employee / manager)
-5. Turn on the ________. (computer / office)
+1. I have a ________meeting at 2pm. (meeting / report)
+2. Please check your email________. (email / desk)
+3. The document________ is on my desk. (document / schedule)
+4. She is my manager________. (employee / manager)
+5. Turn on the computer________. (computer / office)
 
 *Đáp án: 1-meeting, 2-email, 3-document, 4-manager, 5-computer*
 
@@ -113,14 +113,14 @@ Che cột nghĩa, điền vào chỗ trống:
 - **Are** they in a meeting? — Yes, they are. / No, they aren't.
 
 **Bài tập — Điền am / is / are:**
-1. I ______ a new employee.
-2. She ______ my colleague.
-3. We ______ in a meeting.
-4. The deadline ______ tomorrow.
-5. They ______ happy with the project.
-6. ______ you the manager?
-7. The company ______ very large.
-8. Our team ______ ready.
+1. I am______ a new employee.
+2. She is______ my colleague.
+3. We are______ in a meeting.
+4. The deadline is______ tomorrow.
+5. They are______ happy with the project.
+6. are______ you the manager?
+7. The company is______ very large.
+8. Our team is______ ready.
 
 *Đáp án: 1-am, 2-is, 3-are, 4-is, 5-are, 6-Are, 7-is, 8-is*
 
